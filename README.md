@@ -4,17 +4,16 @@
 - 🔭 I’m currently working on establishing a career in the Forces (Canada)
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on rescuing those Homeless via Game Theory
-- 🤔 I’m looking for help with a Python-based alerts mechanism that puts different Legions in competition over helping the Homeless
+- 🤔 I’m looking for help with a Python alerts mechanism that puts different Legions in competition over helping the Homeless
 - 💬 Ask me about how to use Git, I will send you a file that has every Bug mapped out
 - 📫 How to reach me: 14375562530 (Text)
 - 😄 Pronouns: he/him_
 - ⚡ Fun fact: I admire Carl Jung's theory
-
-
-### _Certificates I have acquired_ :chart_with_upwards_trend: 
 <!--
 - Certificates are also known as Maqamat in Spirituality_
 - Certificates confer Power_
+- |E| represents Money you have_
+- The denominator 'T'+1 represents your Age_
 - By CERTIFICATE we imply PUBLICLY SHARED Certificate, as Frequency (RHS of the Equation) 
 means Communication: the most important thing in War:- particularly since a Singularity 
 can easily outmaneuver a Multiplicity if the messages reaches it in time_
@@ -22,4 +21,8 @@ can easily outmaneuver a Multiplicity if the messages reaches it in time_
 dependent on one's PRACTICE / REPETITION_  
 - The LOG Equation means: Magnitude Of Effort Exerted in The Least Amount Of Time_
 -->
+
+### _Certificates_ :chart_with_upwards_trend: 
+![Bachelor Of Commerce (Honors) in "Economics and Management Science" from Ryerson University (TMU)](https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG)
+
 
