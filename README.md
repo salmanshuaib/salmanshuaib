@@ -22,7 +22,7 @@ dependent on one's PRACTICE / REPETITION_
 - The LOG Equation means: Magnitude Of Effort Exerted in The Least Amount Of Time_
 -->
 
-### _Certificates_ :chart_with_upwards_trend: 
-![Bachelor Of Commerce (Honors) in "Economics and Management Science" from Ryerson University (TMU)](https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG)
+### _Certificates I have achieved_ :chart_with_upwards_trend: 
+![Bachelor Of Commerce (Honors) in "Economics and Management Science" from Ryerson University (TMU)](https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG =250x250)
 
 
