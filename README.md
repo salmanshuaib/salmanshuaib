@@ -18,13 +18,16 @@
 means Communication: the most important thing in War:- particularly since a Singularity 
 can easily outmaneuver a Multiplicity if the messages reaches it in time_
 - Magnitude means the Constancy or Mark one obtains in attaining the Certificate - it is 
-dependent on one's PRACTICE / REPETITION_  
+dependent on one's PRACTICE / REPETITION_
+- The LHS and RHS of the LOG Equation represent the two Wings of the Eagle: splitting Work between your passion for (study/exhibit of your) Certificates (Maqamat) to a half 
+hour AND making Money as fast as possible in the remaining half hour_ 
+in  
 - The LOG Equation means: Magnitude Of Effort Exerted in The Least Amount Of Time_
 -->
 
 ### _Certificates I have achieved_ :chart_with_upwards_trend:
 
-<kdb>
+<kbd>
 <figure>
 <img alt="Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
 <figcaption><b>Economics and Management Science</b></figcaption>
