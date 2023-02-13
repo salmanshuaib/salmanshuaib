@@ -2,7 +2,7 @@
 - :volcano: Law Of Game: CERTIFICATE = |E| / ('T'+1)
 - :scroll: "Perish or Prevail, you will never Surrender!"
 - 🔭 I’m currently working on establishing a career in the Forces (Canada)
-- 🌱 I’m currently learning Python
+- 🌱 I’m learning Python
 - 👯 I’m looking to collaborate on rescuing those Homeless via Game Theory
 - 🤔 I’m looking for help with a Python alerts mechanism that puts different Legions in competition over helping the Homeless
 - 💬 Ask me about how to use Git, I will send you a file that has every Bug mapped out
@@ -25,7 +25,7 @@ dependent on one's PRACTICE / REPETITION_
 ### _Certificates I have achieved_ :chart_with_upwards_trend:
 
 <figure>
-<img alt="Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200" style="border:5px solid #73A9FF"/>
+<img border="4" alt="Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
 <figcaption><b>Economics and Management Science</b></figcaption>
 </figure>
 
