@@ -23,6 +23,6 @@ dependent on one's PRACTICE / REPETITION_
 -->
 
 ### _Certificates I have achieved_ :chart_with_upwards_trend: 
-![Bachelor Of Commerce (Honors) in "Economics and Management Science" from Ryerson University (TMU)](https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG =250x250)
+![Bachelor Of Commerce (Honors) in "Economics and Management Science" from Ryerson University (TMU)](https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG | width=150)
 
 
