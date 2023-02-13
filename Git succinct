@@ -1,0 +1,144 @@
+version https://git-lfs.github.com/spec/v1
+oid sha256:c92e5528dd0da76aabf39c3c5ae018d46d734ee6d76da27d6b3c09cc57dd27d5
+size 4434
+
+-> DESCRIPTION:
+-- A comprehensive brief to Github [a la Chapter Summaries] for Teachers; in honor of Git developer: **_linus torvalds_**:-
+
+```python
+Serious Kudos: written while listening to the music of:-
+TAYLOR SWIFT [taylorswift13  //TWITTER]
+```
+
+-- INSTALL Git-SCM from git-scm.com
+-- ADMINISTRATOR:- run vscode as Administrator
+
+-- DOWNLOAD:- Download Git from git-scm.com
+
+- [rejected] main -> main (fetch first)
+  error: failed to push some refs to 'https://github.com/MIL7564/csaid.git'
+  hint: Updates were rejected because the remote contains work that you do
+  hint: not have locally. This is usually caused by another repository pushing
+  hint: to the same ref. You may want to first integrate the remote changes
+  hint: (e.g., 'git pull ...') before pushing again.
+  hint: See the 'Note about fast-forwards' in 'git push --help' for details.//
+^If above error, Then run the following command: _git fetch origin main_ /Merci Beaucoup/Lightning Bolt
+-- _git rm README.md_ alternately if facing situation: Admin controlled README.md
+
+-- ADMINISTRATOR:- run vscode as Administrator - then RESTART vscode
+
+-> _git clone_ "https://github.com/MIL7564/csaid.git"
+-> _git lfs clone_ "https://github.com/MIL7564/csaid.git"  [being deprecated in favour of "git clone"]
+-> _git init_
+-> _git status_
+
+-> REMOTE: _git remote add origin "https://github.com/MIL7564/csaid.git"_
+-> PULL: _git lfs pull "https://github.com/MIL7564/csaid.git"_
+-> FETCH: _git lfs fetch "https://github.com/MIL7564/csaid.git"_
+-> PULL: _git pull "https://github.com/MIL7564/csaid.git"_
+-> FETCH: _git fetch "https://github.com/MIL7564/csaid.git"_
+-> TRACK: _git branch --set-upstream-to=origin/main_
+-> MERGE: _git merge_
+
+-> git add .
+-> MESSAGE: _"git commit -m " "_
+-> PUSH: _git push origin main ._
+
+-> SSH: You need a new key for each Computer you access a Github Repository from/\_/
+-- _ssh-keygen -t ed25519_
+OR
+-- _ssh-keygen -t rsa -b 4096_
+----- https://gist.github.com/john-auld/a55ffe44e9965623f530cb487e33cebd
+
+-- PRESS Edit on by right-clicking on the .pub file of the SSH Key generated and Paste to Github.com > Settings > SSH
+
+-> /Bug:/Permission to MIL7564/csaid.git denied to SalmanEagle.
+fatal: unable to access 'https://github.com/MIL7564/csaid.git/': The requested URL returned error: 403
+//
+-- Open _Credential Manager_ in Windows under Control Panel > User Accounts\_
+-- Remove the credentials for git:https://github.com
+
+-- Change (Add) User to vscode:
+_git config --global user.name "Github username"_
+_git config --global user.email "email@example.com"_
+
+-> LARGE FILE STORAGE: Github LFS (Large File Storage)
+-- Visit git-lfs.github.com and DOWNLOAD
+--- Sign up for Git LFS premium to obtain ample storage: https://github.com/settings/billing
+-- _git lfs install_
+-- _git lfs track ".rtf"_
+
+-> DELETE folders sequentially: _rmdir_
+
+-- Using ssh-agent with Visual Studio Code on Windows 10
+--- _ssh-add -l_
+--- _ssh-add_
+----- https://gist.github.com/john-auld/a55ffe44e9965623f530cb487e33cebd
+
+-- PRESS Edit on the .pub file of the SSH Key generatd and Paste to Github.com > Settings > SSH
+
+-> LARGE FILE STORAGE: Github LFS (Large File Storage)
+-- _git lfs install_
+-- _git lfs track ".rtf"_ //.SHE can deneutralize even the most complex script: \* \* -> \_ \_
+
+-> //You might be pushing data larger than the postBuffer size.
+You can try increasing post buffer size using
+git config --global http.postBuffer 157286400
+/RE: error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: PROTOCOL_ERROR (err 1)/https://stackoverflow.com/questions/59282476/error-rpc-failed-curl-92-http-2-stream-0-was-not-closed-cleanly-protocol-erro
+
+-> DELETE folders sequentially: rmdir \*
+-> git remote set-url origin "https://github.com/MIL7564/csaid.git" //Ty hobbs for this SNIPPET!\_
+
+->// https://devconnected.com/how-to-clear-git-cache/
+git rm --cached file.conf
+-- _git rm -r --cached ._
+
+->/Unstage add/ https://devconnected.com/how-to-unstage-files-on-git
+_git reset --soft_
+
+-> /GITHUB LFS not accepting Large Files inspite PAID #1874681 //https://support.github.com/ticket/personal/0/1874681 /
+The first option would be to use the
+-- _git lfs migrate import_
+import command to automatically rewrite the repo's history. You can use the _--include_ flag to select which files are moved into LFS storage.
+~ Guy
+COMMENT1: IMHO only rewrites LOCAL repository's history\_
+
+-> //TIP: Try not to embed primary folder\_
+
+->/ https://www.javatpoint.com/git-ignore / How To Add Files To: .gitignore
+![Courtesy: javaTpoint.com]git-ignore3.png)
+--- //In the above file, I have given one format and a directory to ignore. The above format _.txt will ignore all the text files from the repository, and /newfolder/_ will ignore the newfolder and its sub-content. We can also give only the name of any file to ignore.
+
+-> / https://www.markdownguide.org/basic-syntax/#images-1 / How To Insert Picture in Markdown
+-- EXAMPLE:
+--- ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+---- //The above code will only display a picture if it is stored on a cloud drive, not a straightforward URL\_
+
+-> Do not push entire ORIGIN to main //Paid LFS; file still large error\_
+--- 'Try _git push -u origin main_
+'\_
+
+-> //To interrupt a running process:
+_rm -Force ./.git/index.lock_
+
+-> //To revert the results of a _git lfs migrate import_ command to an older state:
+_git reset --hard main@{DATE}_
+-- You can get the DATE from the output of the _git reflog_ command_⚡︎
+-- Press q to exit or alternately: Ctrl+C\_
+
+-> https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message
+-> https://scaron.info/blog/vim-keyboard-shortcuts.html
+-> https://www.cyberciti.biz/faq/linux-unix-vim-save-and-quit-command/#:~:text=To%20save%20a%20file%20in%20Vim%20%2F%20vi%2C%20press%20Esc%20key,x%20and%20hit%20Enter%20key
+-- _git commit --amend_ /press ENTER- then "i"/prior to push, edits Commit msg //Then press ESC and :w to SAVE //Then ESC and :x and ENTER to quit
+
+-> "Filename too long error: unable to index file"
+-- A shortcut toward resolving this bug is to just rename the FOLDER enclosing the File* Make the FOLDER's name shorter*
+
+-> REFERENCES (further):
+-- https://en.wikipedia.org/wiki/Git
+-- WinRAR [Compression Software]
+-- Dictionary.com
+--- UrbanDictionary.com
+-- GitHub, Inc.
+
+Culprit: salman shuaib; GITHUB.Com/SalmanEagle
