@@ -31,7 +31,7 @@ in
 <kbd>
 <figure>
 <img alt="Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
-<center>"Economics and Management Science"</center>
+<p>"Economics and Management Science"</p>
 </figure>
 </kbd>
 </div>
