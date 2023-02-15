@@ -43,7 +43,7 @@ in
             <div width="1000" height="500">
             <kbd>
             <figure>
-            <img alt="Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD.JPG"  width="300" height="200"/>
+            <img alt="Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  width="300" height="200"/>
             <p>"Finished with Honors"</p>
             </figure>
             </kbd>
