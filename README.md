@@ -29,7 +29,7 @@ in
 
 <table>
     <tr>
-        <td>
+        <td bgcolor="#73A9FF" width="500" height="500">
             <div>
             <kbd>
             <figure>
