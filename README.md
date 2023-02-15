@@ -54,7 +54,7 @@ in
             <kbd>
             <figure>
             <img alt="salman shuaib - GCE O Levels - Cambridge University" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/GCE%20O%20Levels%20-%20Cambridge.JPG"  width="300" height="200"/>
-            <p>"Awarded Golden Trophy"</p>
+            <p>"O-Levels Cambridge University"</p>
             </figure>
             </kbd>
             </div>
@@ -75,8 +75,8 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="In supremem academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/CAS%20Honor%20Student%201995AD.JPG"  width="300" height="200"/>
-            <p>"In supremem academic form"</p>
+            <img alt="salman shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/CAS%20Honor%20Student%201995AD.JPG"  width="300" height="200"/>
+            <p>"Chief of Air Staff Honour Student 1995AD"</p>
             </figure>
             </kbd>
             </div>
@@ -85,8 +85,40 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
+            <img alt="salman shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
             <p>"Awarded Gold Medal"</p>
+            </figure>
+            </kbd>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div width="1000" height="500">
+            <kbd>
+            <figure>
+            <img alt="salman shuaib - learning, failing at Karate" src=""  width="300" height="200"/>
+            <p>"Karate!"</p>
+            </figure>
+            </kbd>
+            </div>
+        </td>
+        <td>
+            <div>
+            <kbd>
+            <figure>
+            <img alt="salman shuaib - finished 6 High School Subjects in 6 months with awesome grades" src=""  width="300" height="200"/>
+            <p>"University of Guelph - scholarship"</p>
+            </figure>
+            </kbd>
+            </div>
+        </td>
+        <td>
+            <div>
+            <kbd>
+            <figure>
+            <img alt="salman shuaib - all around class act" src=""  width="300" height="200"/>
+            <p>"Student Of The Year 2000AD"</p>
             </figure>
             </kbd>
             </div>
