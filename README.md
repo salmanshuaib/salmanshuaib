@@ -35,3 +35,41 @@ in
 </figure>
 </kbd>
 </div>
+
+
+<table>
+    <tr>
+        <td><div>
+<kbd>
+<figure>
+<img alt="Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
+<p>"Economics and Management Science"</p>
+</figure>
+</kbd>
+</div></td>
+        <td><div>
+<kbd>
+<figure>
+<img alt="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD.JPG"  width="300" height="200"/>
+<p>"Economics and Management Science"</p>
+</figure>
+</kbd>
+</div></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Mia Oolong</td>
+        <td>9</td>
+        <td>6,219</td>
+    </tr>
+</table>

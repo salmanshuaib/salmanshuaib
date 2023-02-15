@@ -132,7 +132,22 @@ _git reset --hard main@{DATE}_
 -- _git commit --amend_ /press ENTER- then "i"/prior to push, edits Commit msg //Then press ESC and :w to SAVE //Then ESC and :x and ENTER to quit
 
 -> "Filename too long error: unable to index file"
--- A shortcut toward resolving this bug is to just rename the FOLDER enclosing the File* Make the FOLDER's name shorter*
+-- A workaround toward resolving this bug is to just rename the FOLDER enclosing the File* Make the FOLDER's name shorter*
+
+-> /Revert to a commit by a SHA hash in Git?/ -- JP Silvashy
+
+CB Bailey answers: /If you want to commit on top of the current HEAD with the exact state at a different commit, undoing all the intermediate commits, then you can use reset to create the correct state of the index to make the commit.
+
+# Reset the index and working tree to the desired tree
+# Ensure you have no uncommitted changes that you want to keep
+git reset --hard 56e05fced
+
+# Move the branch pointer back to the previous HEAD
+git reset --soft "HEAD@{1}"
+
+git commit -m "Revert to 56e05fced"
+/
+
 
 -> REFERENCES (further):
 -- https://en.wikipedia.org/wiki/Git
