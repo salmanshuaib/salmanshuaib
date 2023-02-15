@@ -65,7 +65,7 @@ in
             <div width="1000" height="500">
             <kbd>
             <figure>
-            <img alt="salman shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src=""  width="300" height="200"/>
+            <img alt="salman shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
             <p>"Economics and Management Science"</p>
             </figure>
             </kbd>
@@ -75,7 +75,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - Ontario Secondary School Diploma" src=""  width="300" height="200"/>
+            <img alt="In supremem academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/CAS%20Honor%20Student%201995AD.JPG"  width="300" height="200"/>
             <p>"Finished with Honors"</p>
             </figure>
             </kbd>
@@ -85,7 +85,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - GCE O Levels - Cambridge University" src=""  width="300" height="200"/>
+            <img alt="Arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
             <p>"Awarded Gold Medal"</p>
             </figure>
             </kbd>
