@@ -34,6 +34,9 @@ in
 <p>"Economics and Management Science"</p>
 </figure>
 </kbd>
+</div>
+
+<div>
 <kbd>
 <figure>
 <img alt="Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD.JPG" width="300" height="200"/>
