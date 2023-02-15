@@ -30,7 +30,7 @@ in
 <table>
     <tr>
         <td>
-            <div width="1000" height="500">
+            <div>
             <kbd>
             <figure>
             <img alt="salman shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
@@ -62,7 +62,7 @@ in
     </tr>
     <tr>
         <td>
-            <div width="1000" height="500">
+            <div>
             <kbd>
             <figure>
             <img alt="salman shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
@@ -94,7 +94,7 @@ in
     </tr>
     <tr>
         <td>
-            <div width="1000" height="500">
+            <div>
             <kbd>
             <figure>
             <img alt="salman shuaib - learning, failing at Karate" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Karate.jpg"  width="300" height="200"/>
