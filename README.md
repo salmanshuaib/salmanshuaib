@@ -117,8 +117,8 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - all around class act" src=""  width="300" height="200"/>
-            <p>"https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Student%20of%20the%20Year%202000AD.JPG"</p>
+            <img alt="salman shuaib - all around class act" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Student%20of%20the%20Year%202000AD.JPG"  width="300" height="200"/>
+            <p>"Student Of The Year 2000AD"</p>
             </figure>
             </kbd>
             </div>
