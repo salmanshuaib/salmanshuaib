@@ -29,8 +29,8 @@ in
 
 <table>
     <tr>
-        <td width="500" height="500">
-            <div>
+        <td>
+            <div width=500 height=500>
             <kbd>
             <figure>
             <img alt="Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
@@ -39,9 +39,8 @@ in
             </kbd>
             </div>
         </td>
-   
-        <td width="500" height="500">
-            <div>
+        <td>
+            <div width=500 height=500>
             <kbd>
             <figure>
             <img alt="Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD.JPG"  width="300" height="200"/>
