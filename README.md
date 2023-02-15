@@ -33,7 +33,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
             <p>"Economics and Management Science"</p>
             </figure>
             </kbd>
@@ -43,18 +43,18 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  width="300" height="200"/>
-            <p>"Finished with Honors"</p>
+            <img alt="Salman Shuaib - Certified Game Theorist" src=""  width="300" height="200"/>
+            <p>"Certified Game Theorist"</p>
             </figure>
             </kbd>
             </div>
         </td>
-        <td>
+       <td>
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - GCE O Levels - Cambridge University" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/GCE%20O%20Levels%20-%20Cambridge.JPG"  width="300" height="200"/>
-            <p>"O-Levels Cambridge University"</p>
+            <img alt="Salman Shuaib - Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  width="300" height="200"/>
+            <p>"Finished with Honors"</p>
             </figure>
             </kbd>
             </div>
@@ -65,7 +65,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
             <p>"High School top student"</p>
             </figure>
             </kbd>
@@ -75,7 +75,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/CAS%20Honor%20Student%201995AD.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/CAS%20Honor%20Student%201995AD.JPG"  width="300" height="200"/>
             <p>"Chief of Air Staff Honour Student 1995AD"</p>
             </figure>
             </kbd>
@@ -85,7 +85,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
             <p>"Awarded Gold Medal"</p>
             </figure>
             </kbd>
@@ -97,8 +97,8 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - learning, failing at Karate" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Karate.jpg"  width="300" height="200"/>
-            <p>"Karate!"</p>
+            <img alt="Salman Shuaib - GCE O Levels - Cambridge University" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/GCE%20O%20Levels%20-%20Cambridge.JPG"  width="300" height="200"/>
+            <p>"O-Levels Cambridge University"</p>
             </figure>
             </kbd>
             </div>
