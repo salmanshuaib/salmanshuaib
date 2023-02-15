@@ -60,7 +60,38 @@ in
             </div>
         </td>
     </tr>
-    
+    <tr>
+        <td>
+            <div width="1000" height="500">
+            <kbd>
+            <figure>
+            <img alt="salman shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src=""  width="300" height="200"/>
+            <p>"Economics and Management Science"</p>
+            </figure>
+            </kbd>
+            </div>
+        </td>
+        <td>
+            <div>
+            <kbd>
+            <figure>
+            <img alt="salman shuaib - Ontario Secondary School Diploma" src=""  width="300" height="200"/>
+            <p>"Finished with Honors"</p>
+            </figure>
+            </kbd>
+            </div>
+        </td>
+        <td>
+            <div>
+            <kbd>
+            <figure>
+            <img alt="salman shuaib - GCE O Levels - Cambridge University" src=""  width="300" height="200"/>
+            <p>"Awarded Gold Medal"</p>
+            </figure>
+            </kbd>
+            </div>
+        </td>
+    </tr>
 
 
 
