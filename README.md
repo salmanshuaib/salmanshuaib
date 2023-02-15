@@ -43,7 +43,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - Certified Game Theorist" src=""  width="300" height="200"/>
+            <img alt="Salman Shuaib - Certified Game Theorist" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Game%20Theory.JPG"  width="300" height="200"/>
             <p>"Certified Game Theorist"</p>
             </figure>
             </kbd>
