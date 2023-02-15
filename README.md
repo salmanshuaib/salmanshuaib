@@ -50,7 +50,7 @@ in
         <td><div>
 <kbd>
 <figure>
-<img alt="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD.JPG"  width="300" height="200"/>
+<img alt="Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD.JPG"  width="300" height="200"/>
 <p>"Economics and Management Science"</p>
 </figure>
 </kbd>
@@ -68,8 +68,8 @@ in
         <td></td>
     </tr>
     <tr>
-        <td>Mia Oolong</td>
-        <td>9</td>
-        <td>6,219</td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
