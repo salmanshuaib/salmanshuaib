@@ -39,6 +39,8 @@ in
             </kbd>
             </div>
         </td>
+        <td></td>
+        <td></td>
         <td>
             <div>
             <kbd>
