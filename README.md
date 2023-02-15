@@ -29,7 +29,7 @@ in
 
 <table>
     <tr>
-        <td bgcolor="#73A9FF" width="500" height="500">
+        <td width="500" height="500">
             <div>
             <kbd>
             <figure>
@@ -39,9 +39,8 @@ in
             </kbd>
             </div>
         </td>
-        <td></td>
-        <td></td>
-        <td>
+   
+        <td width="500" height="500">
             <div>
             <kbd>
             <figure>
