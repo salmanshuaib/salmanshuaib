@@ -33,23 +33,37 @@ in
             <div width="1000" height="500">
             <kbd>
             <figure>
-            <img alt="Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
+            <img alt="salman shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
             <p>"Economics and Management Science"</p>
             </figure>
             </kbd>
             </div>
         </td>
         <td>
-            <div width="1000" height="500">
+            <div>
             <kbd>
             <figure>
-            <img alt="Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  width="300" height="200"/>
+            <img alt="salman shuaib - Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  width="300" height="200"/>
             <p>"Finished with Honors"</p>
             </figure>
             </kbd>
             </div>
         </td>
+        <td>
+            <div>
+            <kbd>
+            <figure>
+            <img alt="salman shuaib - GCE O Levels - Cambridge University" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/GCE%20O%20Levels%20-%20Cambridge.JPG"  width="300" height="200"/>
+            <p>"Awarded Gold Medal"</p>
+            </figure>
+            </kbd>
+            </div>
+        </td>
     </tr>
+    
+
+
+
     
     
 </table>
