@@ -66,7 +66,7 @@ in
             <kbd>
             <figure>
             <img alt="salman shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
-            <p>"Economics and Management Science"</p>
+            <p>"High School top student"</p>
             </figure>
             </kbd>
             </div>
@@ -76,7 +76,7 @@ in
             <kbd>
             <figure>
             <img alt="In supremem academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/CAS%20Honor%20Student%201995AD.JPG"  width="300" height="200"/>
-            <p>"Finished with Honors"</p>
+            <p>"In supremem academic form"</p>
             </figure>
             </kbd>
             </div>
