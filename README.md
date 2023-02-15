@@ -54,7 +54,7 @@ in
             <kbd>
             <figure>
             <img alt="salman shuaib - GCE O Levels - Cambridge University" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/GCE%20O%20Levels%20-%20Cambridge.JPG"  width="300" height="200"/>
-            <p>"Awarded Gold Medal"</p>
+            <p>"Awarded Golden Trophy"</p>
             </figure>
             </kbd>
             </div>
