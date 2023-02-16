@@ -54,7 +54,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  width="300" height="200"/>
-            <p>Ontario Secondary School Diploma, finished with Honours</p>
+            <p>High School, finished with Honours</p>
             </figure>
             </kbd>
             </div>
@@ -76,7 +76,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/CAS%20Honor%20Student%201995AD.JPG"  width="300" height="200"/>
-            <p>"Chief of Air Staff Honour Student"</p>
+            <p>Chief of Air Staff Honour Student</p>
             </figure>
             </kbd>
             </div>
@@ -86,7 +86,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
-            <p>"There is no replacement for practice"</p>
+            <p>There is no replacement for practice</p>
             </figure>
             </kbd>
             </div>
@@ -98,7 +98,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - GCE O Levels - Cambridge University" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/GCE%20O%20Levels%20-%20Cambridge.JPG"  width="300" height="200"/>
-            <p>"O-Levels Cambridge University"</p>
+            <p>O-Levels Cambridge University</p>
             </figure>
             </kbd>
             </div>
@@ -108,7 +108,7 @@ in
             <kbd>
             <figure>
             <img alt="salman shuaib - finished 6 High School Subjects in 6 months with awesome grades" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20of%20Guelph%20-%20scholarsh.JPG"  width="300" height="200"/>
-            <p>"University of Guelph - scholarship"</p>
+            <p>University of Guelph - scholarship</p>
             </figure>
             </kbd>
             </div>
@@ -118,7 +118,7 @@ in
             <kbd>
             <figure>
             <img alt="salman shuaib - all around class act" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Student%20of%20the%20Year%202000AD.JPG"  width="300" height="200"/>
-            <p>"Student Of The Year"</p>
+            <p>Student Of The Year</p>
             </figure>
             </kbd>
             </div>
