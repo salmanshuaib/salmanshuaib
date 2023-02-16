@@ -34,7 +34,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
-            <p>"Economics & Management Science, BComm (Hons.)"</p>
+            <p>Economics & Management Science, Honours</p>
             </figure>
             </kbd>
             </div>
@@ -44,7 +44,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - certified Game Theorist" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Game%20Theory.JPG"  width="300" height="200"/>
-            <p>"Game Theorist"</p>
+            <p>Game theorist</p>
             </figure>
             </kbd>
             </div>
