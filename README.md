@@ -3,8 +3,7 @@
 - :bulb: I’m looking to collaborate on rescuing those Homeless via Game Theory: [srvcRadar](https://github.com/salmanshuaib/srvcRadar)
 - 🔭 I’m currently working on establishing a career in the Forces (Canada)
 - 🌱 I’m learning Python
-- 👯 I’m looking to collaborate on rescuing those Homeless via Game Theory
-- 🤔 I’m looking for help with a Python alerts mechanism that puts different Legions in competition over helping the Homeless
+- 🤔 I’m looking for help with a Python alerts mechanism that puts different legions in competition over helping the Homeless
 - 💬 Ask me about how to use Git, I will send you a file that has every Bug mapped out
 - 📫 How to reach me: 14375562530 (Text)
 - 😄 Pronouns: he/him_
