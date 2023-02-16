@@ -1,6 +1,6 @@
 ### _Hi there, I am a Game Theorist_ :video_game:  
 - :volcano: Law Of Game: CERTIFICATE = |E| / ('T'+1)
-- :scroll: "Perish or Prevail, you will never Surrender!"
+- :bulb: I’m looking to collaborate on rescuing those Homeless via Game Theory: [srvcRadar](https://github.com/salmanshuaib/srvcRadar)
 - 🔭 I’m currently working on establishing a career in the Forces (Canada)
 - 🌱 I’m learning Python
 - 👯 I’m looking to collaborate on rescuing those Homeless via Game Theory
@@ -9,6 +9,8 @@
 - 📫 How to reach me: 14375562530 (Text)
 - 😄 Pronouns: he/him_
 - ⚡ Fun fact: I admire Carl Jung's theory
+- :scroll: "Perish or Prevail, you will never Surrender!"
+
 <!--
 - Certificates are also known as Maqamat in Spirituality_
 - Certificates confer Power_
