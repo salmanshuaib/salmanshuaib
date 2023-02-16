@@ -87,7 +87,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
-            <p>#3 is 200 Million (aggregate)</p>
+            <p>#3 in 200 Million (aggregate)</p>
             </figure>
             </kbd>
             </div>
