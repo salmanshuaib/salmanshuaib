@@ -108,7 +108,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - finished 6 High School Subjects in 6 months with awesome grades" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20of%20Guelph%20-%20scholarsh.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - finished 6 High School Subjects in 6 months with awesome grades" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20of%20Guelph%20-%20scholarsh.JPG"  width="300" height="200"/>
             <p>University of Guelph - scholarship</p>
             </figure>
             </kbd>
@@ -118,7 +118,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="salman shuaib - all around class act" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Student%20of%20the%20Year%202000AD.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - all around class act" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Student%20of%20the%20Year%202000AD.JPG"  width="300" height="200"/>
             <p>Student Of The Year</p>
             </figure>
             </kbd>
