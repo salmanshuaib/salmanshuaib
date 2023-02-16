@@ -67,7 +67,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
-            <p>You enjoy what you are good at</p>
+            <p>Top junior high school student</p>
             </figure>
             </kbd>
             </div>
@@ -87,7 +87,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
-            <p>There is no replacement for practice</p>
+            <p>#3 is 200 Million (aggregate)</p>
             </figure>
             </kbd>
             </div>
