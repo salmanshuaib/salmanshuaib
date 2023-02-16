@@ -34,7 +34,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
-            <p>"Economics and Management Science"</p>
+            <p>"Economics & Management Science, BComm (Hons.)"</p>
             </figure>
             </kbd>
             </div>
@@ -43,8 +43,8 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - Certified Game Theorist" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Game%20Theory.JPG"  width="300" height="200"/>
-            <p>"Certified Game Theorist"</p>
+            <img alt="Salman Shuaib - certified Game Theorist" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Game%20Theory.JPG"  width="300" height="200"/>
+            <p>"Game Theorist"</p>
             </figure>
             </kbd>
             </div>
@@ -54,7 +54,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  width="300" height="200"/>
-            <p>"Finished with Honors"</p>
+            <p>Ontario Secondary School Diploma, finished with Honors</p>
             </figure>
             </kbd>
             </div>
@@ -66,7 +66,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
-            <p>"High School top student"</p>
+            <p>You enjoy what you are good at</p>
             </figure>
             </kbd>
             </div>
@@ -76,7 +76,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/CAS%20Honor%20Student%201995AD.JPG"  width="300" height="200"/>
-            <p>"Chief of Air Staff Honour Student 1995AD"</p>
+            <p>"Chief of Air Staff Honour Student"</p>
             </figure>
             </kbd>
             </div>
@@ -86,7 +86,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
-            <p>"Awarded Gold Medal"</p>
+            <p>"There is no replacement for practice"</p>
             </figure>
             </kbd>
             </div>
@@ -118,7 +118,7 @@ in
             <kbd>
             <figure>
             <img alt="salman shuaib - all around class act" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Student%20of%20the%20Year%202000AD.JPG"  width="300" height="200"/>
-            <p>"Student Of The Year 2000AD"</p>
+            <p>"Student Of The Year"</p>
             </figure>
             </kbd>
             </div>
