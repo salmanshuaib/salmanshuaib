@@ -54,7 +54,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  width="300" height="200"/>
-            <p>Ontario Secondary School Diploma, finished with Honors</p>
+            <p>Ontario Secondary School Diploma, finished with Honours</p>
             </figure>
             </kbd>
             </div>
