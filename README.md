@@ -1,12 +1,11 @@
 ### _Hi there, I am a Game Theorist_ :video_game:  
 - :volcano: Law Of Game: CERTIFICATE = |E| / ('T'+1)
-- :bulb: I’m looking to collaborate on rescuing those Homeless via Game Theory: [srvcRadar](https://github.com/salmanshuaib/srvcRadar)
-- 🔭 I’m currently working on establishing a career in the Forces (Canada)
+- 🤔 Working on an alerts mechanism that puts different legions in competition over helping the Homeless: [srvcRadar](https://github.com/salmanshuaib/srvcRadar)
+- 🔭 I am currently working on establishing a career in the Forces (Canada)
 - 🌱 I’m learning Python
-- 🤔 I’m looking for help with a Python alerts mechanism that puts different legions in competition over helping the Homeless
 - 😄 Ask me about how to use Git, I will send you a file that has every Bug mapped out
 - 📫 How to reach me: 14375562530 (Text)
-- 💬 Pronouns: he/him_
+- 💬 Pronouns: he/him
 - ⚡ Fun fact: I admire Carl Jung's theory
 - :scroll: "Perish or Prevail, you will never Surrender!"
 
