@@ -1,6 +1,6 @@
 ### _Hi there, I am a Game Theorist_ :video_game:  
 - :volcano: Law Of Game: CERTIFICATE = |E| / ('T'+1)
-- 🤔 Working on an alerts mechanism that puts different legions in competition over helping the Homeless: [srvcRadar](https://github.com/salmanshuaib/srvcRadar)
+- 🤔 Working on an alerts mechanism that puts different legions in competition over helping the Homeless: [sentinel](https://github.com/salmanshuaib/sentinel)
 - 🔭 I am currently working on establishing a career in the Forces (Canada)
 - 🌱 I’m learning Python
 - 😄 Ask me about how to use Git, I will send you a file that has every Bug mapped out
