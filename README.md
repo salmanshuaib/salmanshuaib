@@ -75,8 +75,8 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/CAS%20Honor%20Student%201995AD.JPG"  width="300" height="200"/>
-            <p>Chief of Air Staff Honour Student</p>
+            <img alt="Salman Shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20Of%20Waterloo%20pink%20tie%20faculty%20mathematics.JPG"  width="300" height="200"/>
+            <p>University Of Waterloo - Computer Science</p>
             </figure>
             </kbd>
             </div>
