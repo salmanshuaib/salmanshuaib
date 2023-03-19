@@ -76,7 +76,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20Of%20Waterloo%20pink%20tie%20faculty%20mathematics.jpg"  width="300" height="200"/>
-            <p>University Of Waterloo - Computer Science</p>
+            <p>University Of Waterloo - CS</p>
             </figure>
             </kbd>
             </div>
