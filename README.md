@@ -28,12 +28,13 @@ in
 
 ### _Certificates I have achieved_ :chart_with_upwards_trend:
 
-<style>
+<!-- <style>
     img {
         max-width: 300px;
         max-height: 200px;
     }
 </style>
+-->
 
 <table>
     <tr>
