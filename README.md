@@ -7,8 +7,7 @@
 - 📫 How to reach me: 14375562530 (Text)
 - 💬 Pronouns: he/him
 - ⚡ Fun fact: I admire Carl Jung's theory
-- :scroll: "Perish or Prevail, you will never Surrender!"
-- Long live: :pakistan: :canada: 
+- :scroll: "Perish or Prevail, you will never Surrender!" 
 - Emojis from: https://github.com/ikatyang/emoji-cheat-sheet
 
 <!--
