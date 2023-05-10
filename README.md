@@ -8,7 +8,7 @@
 - 💬 Pronouns: he/him
 - ⚡ Fun fact: I admire Carl Jung's theory
 - :scroll: "Perish or Prevail, you will never Surrender!" 
-- Emojis from: https://github.com/ikatyang/emoji-cheat-sheet
+- Emojis from: [<u>ikatyang</u>](https://github.com/ikatyang/emoji-cheat-sheet)
 
 <!--
 - Certificates are also known as Maqamat in Spirituality_
