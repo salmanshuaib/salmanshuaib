@@ -28,13 +28,20 @@ in
 
 ### _Certificates I have achieved_ :chart_with_upwards_trend:
 
+<style>
+    img {
+        max-width: 300px;
+        max-height: 200px;
+    }
+</style>
+
 <table>
     <tr>
         <td>
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - Bachelor Of Commerce (Honors) in Economics and Management Science from Ryerson University (TMU)]" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Ryerson%20Univesity%20-%20BComm%20(Hons).JPG"  />
             <p>Economics & Management Science, Honours</p>
             </figure>
             </kbd>
@@ -44,7 +51,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - certified Game Theorist" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Game%20Theory.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - certified Game Theorist" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Game%20Theory.JPG"  />
             <p>Game theorist</p>
             </figure>
             </kbd>
@@ -54,7 +61,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - Ontario Secondary School Diploma" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/OSSD13.JPG"  />
             <p>High School, finished with Honours</p>
             </figure>
             </kbd>
@@ -66,7 +73,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  />
             <p>Top junior high school student</p>
             </figure>
             </kbd>
@@ -76,7 +83,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20Of%20Waterloo%20pink%20tie%20faculty%20mathematics.jpg"  width="300" height="200"/>
+            <img alt="Salman Shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20Of%20Waterloo%20pink%20tie%20faculty%20mathematics.jpg"  />
             <p>University Of Waterloo - CS</p>
             </figure>
             </kbd>
@@ -86,7 +93,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  />
             <p>#3 in 200 Million (aggregate)</p>
             </figure>
             </kbd>
@@ -98,7 +105,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - GCE O Levels - Cambridge University" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/GCE%20O%20Levels%20-%20Cambridge.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - GCE O Levels - Cambridge University" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/GCE%20O%20Levels%20-%20Cambridge.JPG"  />
             <p>O-Levels Cambridge University</p>
             </figure>
             </kbd>
@@ -108,7 +115,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - finished 6 High School Subjects in 6 months with awesome grades" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20of%20Guelph%20-%20scholarsh.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - finished 6 High School Subjects in 6 months with awesome grades" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20of%20Guelph%20-%20scholarsh.JPG"  />
             <p>University of Guelph - scholarship</p>
             </figure>
             </kbd>
@@ -118,7 +125,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - all around class act" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Student%20of%20the%20Year%202000AD.JPG"  width="300" height="200"/>
+            <img alt="Salman Shuaib - all around class act" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Student%20of%20the%20Year%202000AD.JPG"  />
             <p>Student Of The Year</p>
             </figure>
             </kbd>
