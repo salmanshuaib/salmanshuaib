@@ -8,7 +8,8 @@
 - 💬 Pronouns: he/him
 - ⚡ Fun fact: I admire Carl Jung's theory
 - :scroll: "Perish or Prevail, you will never Surrender!"
-- Long live: :Pakistan: :Canada: :USA:
+- Long live: :pakistan: :canada: 
+- Emojis from: https://github.com/ikatyang/emoji-cheat-sheet
 
 <!--
 - Certificates are also known as Maqamat in Spirituality_
