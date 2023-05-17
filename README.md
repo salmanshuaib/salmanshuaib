@@ -94,8 +94,8 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - arguably Top 3 among 200 Million on an aggregate basis" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Arguably%20Top%203%20among%20200%20Million%20on%20an%20aggregate%20basis.JPG"  width="300" height="200"/>
-            <p>#3 in 200 Million (aggregate)</p>
+            <img alt="Salman Shuaib - revived Toronto Watergun Fight at Nathan Phillips Square" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Toronto%20Watergun%20Fight%20Revived%20-%20June%2014%202015%20-%2011220837_880180965406286_6292100396274192329_n.jpg"  width="300" height="200"/>
+            <p>Bringing people together</p>
             </figure>
             </kbd>
             </div>
