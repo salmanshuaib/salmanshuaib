@@ -74,8 +74,8 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
-            <p>Top junior high school student</p>
+            <img alt="Salman Shuaib - a High School top student from Pakistan" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Acing%20Cambridge%20University%20O-Levels.JPG"  width="300" height="200"/>
+            <p>A top junior high school student</p>
             </figure>
             </kbd>
             </div>
@@ -84,7 +84,7 @@ in
             <div>
             <kbd>
             <figure>
-            <img alt="Salman Shuaib - in supreme academic form" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20Of%20Waterloo%20pink%20tie%20faculty%20mathematics.jpg"  width="300" height="200"/>
+            <img alt="Salman Shuaib - Pink Tied at the CLT, University Of Waterloo" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/University%20Of%20Waterloo%20pink%20tie%20faculty%20mathematics.jpg"  width="300" height="200"/>
             <p>University Of Waterloo - CS</p>
             </figure>
             </kbd>
@@ -95,7 +95,7 @@ in
             <kbd>
             <figure>
             <img alt="Salman Shuaib - revived Toronto Watergun Fight at Nathan Phillips Square" src="https://github.com/salmanshuaib/salmanshuaib/blob/main/certs/Toronto%20Watergun%20Fight%20Revived%20-%20June%2014%202015%20-%2011220837_880180965406286_6292100396274192329_n.jpg"  width="300" height="200"/>
-            <p>Bringing people together</p>
+            <p>Bringing people together (Toronto)</p>
             </figure>
             </kbd>
             </div>
