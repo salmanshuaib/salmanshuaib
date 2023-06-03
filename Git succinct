@@ -50,6 +50,10 @@ OR
 -- _ssh-keygen -t rsa -b 4096_
 ----- https://gist.github.com/john-auld/a55ffe44e9965623f530cb487e33cebd
 
+-- Change (Add) User to vscode:
+_git config --global user.name "Salman Shuaib"_
+_git config --global user.email "email@example.com"_
+
 -- PRESS Edit on by right-clicking on the .pub file of the SSH Key generated and Paste to Github.com > Settings > SSH
 
 -> /Bug:/Permission to MIL7564/csaid.git denied to SalmanEagle.
@@ -57,10 +61,6 @@ fatal: unable to access 'https://github.com/MIL7564/csaid.git/': The requested U
 //
 -- Open _Credential Manager_ in Windows under Control Panel > User Accounts\_
 -- Remove the credentials for git:https://github.com
-
--- Change (Add) User to vscode:
-_git config --global user.name "Github username"_
-_git config --global user.email "email@example.com"_
 
 -> LARGE FILE STORAGE: Github LFS (Large File Storage)
 -- Visit git-lfs.github.com and DOWNLOAD
@@ -160,4 +160,4 @@ _git checkout --orphan branchname git rm -rf_ .
 --- UrbanDictionary.com
 -- GitHub, Inc.
 
-Culprit: salman shuaib; GITHUB.Com/SalmanEagle
+Culprit: Salman Shuaib; GITHub.Com/salmanshuaib
