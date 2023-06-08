@@ -2,7 +2,7 @@
 - :volcano: Law Of Game: CERTIFICATE = |E| / ('T'+1)
 - 🤔 Working on an alerts mechanism that puts different legions in competition over helping the Homeless: [sentinel](https://github.com/salmanshuaib/sentinel)
 - 🔭 I am looking foward to establishing a career in the Forces (Canada)
-- 🌱 Always learning Python, JavaScript and C++ 
+- 🌱 Currently learning Python, JavaScript and Dart 
 - 😄 Ask me about how to use Git, I will send you a file that has every Bug mapped out
 - 📫 How to reach me: 14375562530 (Text)
 - 💬 Pronouns: he/him
