@@ -131,6 +131,9 @@ _git reset --hard main@{DATE}_
 -> https://www.cyberciti.biz/faq/linux-unix-vim-save-and-quit-command/#:~:text=To%20save%20a%20file%20in%20Vim%20%2F%20vi%2C%20press%20Esc%20key,x%20and%20hit%20Enter%20key
 -- _git commit --amend_ /press ENTER- then "i"/prior to push, edits Commit msg //Then press ESC and :w to SAVE //Then ESC and :x and ENTER to quit
 
+-> //To go to the situation as at a previous commit:
+_git reset --hard 79d8b29_
+
 -> "Filename too long error: unable to index file"
 -- A workaround toward resolving this bug is to just rename the FOLDER enclosing the File* Make the FOLDER's name shorter*
 
