@@ -1,7 +1,7 @@
 ### _Hi there, I am a Game Theorist_ :video_game:  
 - :volcano: Law Of Game: CERTIFICATE = |E| / ('T'+1)
-- 🤔 Working on a self-reporting mechanism that puts different legions in competition over Acts Of Kindness: [sentinel](https://github.com/salmanshuaib/sentinel)
-- 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT fastidiously.
+- 🤔 Working on a mechanism that puts different legions in competition over Acts Of Kindness: [sentinel](https://github.com/salmanshuaib/sentinel)
+- 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
 - 🔭 I am looking foward to establishing a career in the Forces (Canada)
 - 🌱 Currently learning Python, JavaScript and Dart 
 - 😄 Ask me about how to use Git, I will send you a file that has every Bug mapped out
