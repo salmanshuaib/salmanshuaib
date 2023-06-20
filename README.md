@@ -1,9 +1,9 @@
 ### _Hi there, I am a Game Theorist_ :video_game:  
-- :volcano: Law Of Game: CERTIFICATE = |E| / ('T'+1)
-- 🤔 Working on a mechanism that puts different legions in competition over Acts Of Kindness: [sentinel](https://github.com/salmanshuaib/sentinel)
+- 🤔 No Poverty: Working on an alerts mechanism that puts legions in competition over helping those in need: [sentinel](https://github.com/salmanshuaib/sentinel)
+- 🧑‍⚕️ Wrote pseudocode for a jab that can potentially cure aging: [immortality](https://github.com/salmanshuaib/immortality) 
 - 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
 - 🔭 I am looking foward to establishing a career in the Forces (Canada)
-- 🌱 Currently learning Python, JavaScript and Dart 
+- 🌱 Currently learning Python, JavaScript and PHP 
 - 😄 Ask me about how to use Git, I will send you a file that has every Bug mapped out
 - 📫 How to reach me: 14375562530 (Text)
 - 💬 Pronouns: he/him
@@ -12,21 +12,6 @@
 - :eyes: Emojis from: [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
 - :muscle: To modify your github/[username] page, produce a Repository named the same as your [username] and edit its README.md
 
-<!--
-- Certificates are also known as Maqamat in Spirituality_
-- Certificates confer Power_
-- |E| represents Money you have_
-- The denominator 'T'+1 represents your Age_
-- By CERTIFICATE we imply PUBLICLY SHARED Certificate, as Frequency (RHS of the Equation) 
-means Communication: the most important thing in War:- particularly since a Singularity 
-can easily outmaneuver a Multiplicity if the messages reaches it in time_
-- Magnitude means the Constancy or Mark one obtains in attaining the Certificate - it is 
-dependent on one's PRACTICE / REPETITION_
-- The LHS and RHS of the LOG Equation represent the two Wings of the Eagle: splitting Work between your passion for (study/exhibit of your) Certificates (Maqamat) to a half 
-hour AND making Money as fast as possible in the remaining half hour_ 
-in  
-- The LOG Equation means: Magnitude Of Effort Exerted in The Least Amount Of Time_
--->
 
 ### _Certificates I have achieved_ :chart_with_upwards_trend:
 
