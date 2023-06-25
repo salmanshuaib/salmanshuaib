@@ -154,6 +154,8 @@ git commit -m "Revert to 56e05fced"
 -> /To create an empty branch: 
 _git checkout --orphan branchname git rm -rf_ . 
 
+-> To take your local version of the Git reposotiory to the state as of a previous commit:
+_git reset --hard <commit-hash>_
 
 
 -> REFERENCES (further):
