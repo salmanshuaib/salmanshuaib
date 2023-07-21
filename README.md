@@ -1,15 +1,15 @@
 ### _Hi there, I am a Game Theorist_ :video_game:  
-- 🤔 No Poverty: Working on an alerts mechanism that puts legions in competition over helping those in need: [sentinel](https://github.com/salmanshuaib/sentinel)
-- 🧑‍⚕️ Wrote pseudocode for a jab that can potentially cure aging: [immortality](https://github.com/salmanshuaib/immortality) 
+- 🤔 No Poverty: Working on an alerts mechanism that puts legions in competition over helping those in need: [sentinel](https://github.com/salmanshuaib/sentinel).
+- :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
+- 🧑‍⚕️ Wrote pseudocode for a jab that addresses aging.
 - 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
-- 🔭 I am looking foward to establishing a career in the Forces (Canada)
-- 🌱 Currently learning Python, JavaScript and PHP 
-- 😄 Ask me about how to use Git, I will send you a file that has every Bug mapped out
-- 📫 How to reach me: 14375562530 (Text)
-- 💬 Pronouns: he/him
-- ⚡ Fun fact: I admire Carl Jung's theory
-- :scroll: "Perish or Prevail, you will never Surrender!" 
-- :eyes: Emojis from: [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+- 🔭 I am looking foward to establishing a career in the Forces (Canada).
+- 🌱 Currently learning Python, JavaScript and PHP.
+- 📫 How to reach me: 14375562530 (Text).
+- 💬 Pronouns: he/him.
+- ⚡ Fun fact: I admire Carl Jung's theory.
+- :scroll: "Perish or Prevail, you will never Surrender!". 
+- :eyes: Emojis from: [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet).
 - :muscle: To modify your github/[username] page, produce a Repository named the same as your [username] and edit its README.md
 
 
