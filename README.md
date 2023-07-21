@@ -1,7 +1,7 @@
 ### _Hi there, I am a Game Theorist_ :video_game:  
 - 🤔 No Poverty: Working on an alerts mechanism that puts legions in competition over helping those in need: [sentinel](https://github.com/salmanshuaib/sentinel).
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
-- 🧑‍⚕️ Wrote pseudocode for a jab that addresses aging.
+- 🧑‍⚕️ Wrote pseudocode for a jab that addresses aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
 - 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
 - 🔭 I am looking foward to establishing a career in the Forces (Canada).
 - 🌱 Currently learning Python, JavaScript and PHP.
