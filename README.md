@@ -1,6 +1,6 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
-- 📲 [cellnet](https://github.com/salmanshuaib/cellnet) retrieves specified texts from mobilephone and stamps them onto your website.
+- 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website.
 - 🤔 An alerts mechanism that puts Legions in competition over helping those in need: [sentinel](https://github.com/salmanshuaib/sentinel).
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
 - 🧑‍⚕️ Wrote pseudocode for a jab that stabilizes aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
