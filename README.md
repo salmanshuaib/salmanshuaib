@@ -3,14 +3,14 @@
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) retrieves specified texts from mobilephone and stamps them onto your website.
 - 🤔 An alerts mechanism that puts Legions in competition over helping those in need: [sentinel](https://github.com/salmanshuaib/sentinel).
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
-- 🧑‍⚕️ Wrote pseudocode for a jab that addresses aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
+- 🧑‍⚕️ Wrote pseudocode for a jab that stabilizes aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
 - 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
 - 🔭 I am looking foward to establishing a career in the Forces (Canada).
 - 🌱 Currently learning Python, JavaScript and PHP.
 - 📫 How to reach me: 14375562530 (Text).
 - 💬 Pronouns: he/him.
 - ⚡ Fun fact: I admire Carl Jung's theory.
-- :scroll: "Perish or Prevail, you will never Surrender!". 
+- :scroll: "Perish or prevail, you will never surrender!". 
 - :eyes: Emojis from: [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet).
 - :muscle: To modify your github/[username] page, produce a Repository named the same as your [username] and edit its README.md .
 
