@@ -1,7 +1,7 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website.
-++ 🤔 [sentinel](https://GitHub.com/salmanshuaib/cellnet/+9_WORK/applications/sentinel) is an application of cellnet: an alerts mechanism for those in need.
+-> 🤔 [sentinel](https://GitHub.com/salmanshuaib/cellnet/+9_WORK/applications/sentinel) is an application of cellnet: an alerts mechanism for those in need.
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
 - 🧑‍⚕️ Wrote pseudocode for a jab that stabilizes aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
 - 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
