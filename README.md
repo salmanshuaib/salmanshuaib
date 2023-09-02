@@ -1,6 +1,6 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
-- :factory_worker: My [hire-moi](https://github.com/salmanshuaib/hire-moi) project is under development to make job application process easier.
+- :factory_worker: [hire-moi](https://github.com/salmanshuaib/hire-moi) project is under development to make job application process easier.
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website. 
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
 - 🧑‍⚕️ Wrote pseudocode for a jab that stabilizes aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
