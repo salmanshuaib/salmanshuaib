@@ -1,6 +1,5 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
-- :video_game: [Creatrix-HUD](https://github.com/salmanshuaib/Creatrix-HUD) is an IMMERSIVEReality game built in one day w/ the help of ChatGPT.
 - :factory_worker: Project [hire-moi](https://github.com/salmanshuaib/hire-moi) is under development to make job application process easier.
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website. 
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
