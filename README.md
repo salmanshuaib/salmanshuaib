@@ -1,6 +1,6 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
-- :video_game: T_HUD[https://github.com/salmanshuaib/T_HUD] assumes we are in a video game and enables you to take control.
+- :video_game: [T_HUD](https://github.com/salmanshuaib/T_HUD) assumes we are in a video game and enables you to take control.
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website. 
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
 - 🧑‍⚕️ Wrote pseudocode for a jab that stabilizes aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
