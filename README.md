@@ -1,6 +1,6 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
-- :video_game: [PIG](https://github.com/salmanshuaib/PIG) experimental technology enabling one to fly their Sphere Of Consciousness.
+- :video_game: [PIG](https://github.com/salmanshuaib/PIG) experimental technology enabling one to pilot their Sphere Of Consciousness.
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website. 
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
 - 🧑‍⚕️ Wrote pseudocode for a jab that stabilizes aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
