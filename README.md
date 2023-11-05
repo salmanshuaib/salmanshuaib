@@ -1,7 +1,7 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
 <!-- - :moneybag: [Janet](https://github.com/salmanshuaib/Janet) - boycott employers that do not compensate job application effort. -->
-- :canada: [cos](https://GitHub.com/salmanshuaib/cos) - present causes: #TAYLOR2028, #UnitedLeft, #Israel, #Ukraine.
+- <img alt="USA flag" src="github.com/salmanshuaib/salmanshuaib/+5_PILOTING/USA_flag - Screenshot.jpg" width="15" height="10"/> [cos](https://GitHub.com/salmanshuaib/cos) - present causes: #TAYLOR2028, #UnitedLeft, #Israel, #Ukraine.
 - :video_game: [pig](https://github.com/salmanshuaib/pig) - an experimental technology enabling one to pilot their Sphere Of Consciousness.
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website. 
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
