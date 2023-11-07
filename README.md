@@ -1,9 +1,9 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
-<!-- - :moneybag: [Janet](https://github.com/salmanshuaib/Janet) - boycott employers that do not compensate job application effort. -->
+- 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website; solving problem of need #UNSDG1. 
 - <img alt="USA flag" src="+5_PILOTING\USA_flag-PRTSCR.jpg" width="15" height="10"/> [cos](https://GitHub.com/salmanshuaib/cos) - present causes: #TAYLOR2028, #UnitedLeft, #Israel, #Ukraine.
+- :moneybag: [Janet](https://github.com/salmanshuaib/Janet) - boycott employers that do not compensate job application effort.
 - :video_game: [pig](https://github.com/salmanshuaib/pig) - an experimental technology enabling one to pilot their Sphere Of Consciousness.
-- 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website. 
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
 - 🧑‍⚕️ Wrote pseudocode for a jab that stabilizes aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
 - 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
