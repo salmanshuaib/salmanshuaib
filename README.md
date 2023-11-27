@@ -1,6 +1,6 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
-- :electric_plug: [POWER](https://GitHub.com/salmanshuaib/POWER Generate POWER via following a schdeudle. Win war through avant garde Physics!
+- :electric_plug: [POWER](https://GitHub.com/salmanshuaib/POWER) Generate POWER for your Sphere Of Consciousness via following a Schedudle.
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website; solving problem of need #UNSDG1. 
 - <img alt="USA flag" src="+5_PILOTING\USA_flag-PRTSCR.jpg" width="15" height="10"/>  [cos](https://GitHub.com/salmanshuaib/cos) - present causes: #TAYLOR2028, #UnitedLeft, #Israel, #Ukraine.
 - :moneybag: [Janet](https://github.com/salmanshuaib/Janet) - boycott employers that do not compensate job application effort.
