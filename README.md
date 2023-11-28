@@ -1,6 +1,7 @@
 ### _Hi there, I am a Game Theorist_ :video_game:
 
 - :electric_plug: [POWER](https://GitHub.com/salmanshuaib/POWER) Generate POWER through your Sphere Of Consciousness via following a Schedule.
+- :cold_face: [HIDE](https://GitHub.com/salmanshuaib/HIDE) Enable the homeless to review establishments.
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website; solving problem of need #UNSDG1. 
 <!-- - <img alt="USA flag" src="+5_PILOTING\USA_flag-PRTSCR.jpg" width="15" height="10"/>  [cos](https://GitHub.com/salmanshuaib/cos) - present causes: #TAYLOR2028, #UnitedLeft, #Israel, #Ukraine.
 - :moneybag: [Janet](https://github.com/salmanshuaib/Janet) - boycott employers that do not compensate job application effort.
@@ -11,7 +12,7 @@
 - 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
 - 🔭 I am looking foward to establishing a career in the Forces (Canada).
 - 🌱 Currently learning Python, JavaScript and PHP.
-- 📫 How to reach me: 14375562530 (Text).
+- 📫 How to reach me: 4375562530 (Text).
 - 💬 Pronouns: he/him.
 - ⚡ Fun fact: I admire Carl Jung's theory.
 - :scroll: "Perish or prevail, you will never surrender!". 
