@@ -5,7 +5,7 @@
 <!-- - :cold_face: [HIDE](https://GitHub.com/salmanshuaib/HIDE) Enable the homeless to review establishments.
 - <img alt="USA flag" src="+5_PILOTING\USA_flag-PRTSCR.jpg" width="15" height="10"/>  [cos](https://GitHub.com/salmanshuaib/cos) - present causes: #TAYLOR2028, #UnitedLeft, #Israel, #Ukraine.
 - :moneybag: [Janet](https://github.com/salmanshuaib/Janet) - boycott employers that do not compensate job application effort. -->
-- :video_game: [pig](https://github.com/salmanshuaib/pig) - spacetime comms.
+- :video_game: [pig](https://github.com/salmanshuaib/pig) - enables spacetime communication via rehearsing vocabulary.
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
 - 🧑‍⚕️ Wrote pseudocode for a jab that stabilizes aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
 - 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
