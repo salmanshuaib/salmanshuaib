@@ -2,10 +2,10 @@
 
 - :electric_plug: [POWER](https://GitHub.com/salmanshuaib/POWER) Generate POWER for your Sphere Of Consciousness via following a Schedule.
 - 📲 [cellnet](https://github.com/salmanshuaib/cellnet) selects texts from mobilephone and posts them to your website - solving poverty #UNSDG1.
-- :cold_face: [HIDE](https://GitHub.com/salmanshuaib/HIDE) Enable the homeless to review establishments.
-<!-- - <img alt="USA flag" src="+5_PILOTING\USA_flag-PRTSCR.jpg" width="15" height="10"/>  [cos](https://GitHub.com/salmanshuaib/cos) - present causes: #TAYLOR2028, #UnitedLeft, #Israel, #Ukraine.
-- :moneybag: [Janet](https://github.com/salmanshuaib/Janet) - boycott employers that do not compensate job application effort.
-- :video_game: [pig](https://github.com/salmanshuaib/pig) - an experimental technology enabling one to pilot their Sphere Of Consciousness. -->
+<!-- - :cold_face: [HIDE](https://GitHub.com/salmanshuaib/HIDE) Enable the homeless to review establishments.
+- <img alt="USA flag" src="+5_PILOTING\USA_flag-PRTSCR.jpg" width="15" height="10"/>  [cos](https://GitHub.com/salmanshuaib/cos) - present causes: #TAYLOR2028, #UnitedLeft, #Israel, #Ukraine.
+- :moneybag: [Janet](https://github.com/salmanshuaib/Janet) - boycott employers that do not compensate job application effort. -->
+- :video_game: [pig](https://github.com/salmanshuaib/pig) - spacetime comms.
 - :computer: Wrote concept for enabling rational AI to function with emotions: [L-AIN](https://github.com/salmanshuaib/L-AIN).
 - 🧑‍⚕️ Wrote pseudocode for a jab that stabilizes aging: [timeless-jab](https://github.com/salmanshuaib/timeless-jab).
 - 🚀 [dixie](https://github.com/salmanshuaib/dixie) is a tool I have designed to help programmers converse with ChatGPT swiftly.
